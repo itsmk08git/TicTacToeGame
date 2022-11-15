@@ -1,2 +1,2 @@
 # TicTacToeGame
-TicTacToe Using C-Programming
+TicTacToe Using C Programming Language.
