@@ -40,7 +40,6 @@ int main()
 		    square[9] = mark;  
 		    
 		else 
-		{
 		    printf("!!!!!!!Invalid Option!!!!!!!");
 		    player--;
 		    getch();
